@@ -5,7 +5,7 @@ int valorB = 1;
 int valorC = 0;
 
 Console.Write("Digite um número inteiro: ");
-numero = int.Parse(Console.ReadLine());
+numero = int.Parse(Console.ReadLine()!);
 
 while (valorC < numero)
 {
