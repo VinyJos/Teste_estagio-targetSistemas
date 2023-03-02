@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\bin\Debug\net6.0\Test05.exe
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\bin\Debug\net6.0\Test05.deps.json
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\bin\Debug\net6.0\Test05.runtimeconfig.json
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\bin\Debug\net6.0\Test05.dll
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\bin\Debug\net6.0\Test05.pdb
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.dll
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\refint\Test05.dll
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.pdb
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\Test05.genruntimeconfig.cache
+C:\Users\vinic\Desktop\C#_Projetos\Teste_estagio-targetSistemas\Test05\obj\Debug\net6.0\ref\Test05.dll
